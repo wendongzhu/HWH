@@ -1,0 +1,24 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "version": "2",
+  "name": "hwh",
+  "outputfilename": "hwh",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+
+  "author": {
+    "name": "wendong.zhu",
+    "email": "wendongzhu@outlook.com"
+  },
+  "info": {
+    "companyName": "HWH",
+    "productName": "hwh",
+    "productVersion": "1.0.0",
+    "author": "wendong.zhu",
+    "copyright": "© 2024-2028 Harms+Wende. All rights reserved.",
+    "comments": ""
+  }
+
+}
